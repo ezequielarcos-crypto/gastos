@@ -4,7 +4,7 @@ App web para llevar el control de gastos compartidos entre un grupo de viajeros:
 
 Es una **PWA** (se puede instalar en el celular y funciona offline): sin backend, sin build, todo corre en el navegador y los datos se guardan en `localStorage` del dispositivo.
 
-🔗 Demo: https://ezequielarcos-crypto.github.io/mis_gastos/
+🔗 Demo: https://ezequielarcos-crypto.github.io/gastos/
 
 ## Funcionalidad
 
